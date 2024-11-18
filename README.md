@@ -1,29 +1,28 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Adil+Rasheed....;Nice+to+meet+you!&center=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohammad+Saquib....;Nice+to+meet+you!&center=true&size=22">
   </a>
 </h1>
 <h3 align="center">🎓 I am a Postgradute Student, pursuing Master of Computer Application.</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dr5kn8993/image/upload/v1711788728/My%20Images/coder.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eradilrasheed&label=Profile%20views&color=0e75b6&style=flat" alt="eradilrasheed" /> </p>
-<p align="left"> <a href="https://twitter.com/er_marasheed" target="blank"><img src="https://img.shields.io/twitter/follow/er_marasheed?logo=twitter&style=for-the-badge" alt="er_marasheed" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saquibe&label=Profile%20views&color=0e75b6&style=flat" alt="saquib" /> </p>
+<p align="left"> <a href="https://twitter.com/saquibera" target="blank"><img src="https://img.shields.io/twitter/follow/saquibera?logo=twitter&style=for-the-badge" alt="saquib" /></a> </p>
 - 🎯 Focusing on FullStack (Frontend + Backend ).😎<br>
 - 🌱 Trying to become an expert in Fullstack development ❤ <br>
 - 💻 I love exploring new tech stacks and building cool stuff.<br>
 - 📰 Reading tech documentation whenever possible.<br>
 - 🥅 2024 Goals: Learn Cloud on AWS and Azure.<br>
 - 🤝 I’m looking for help to get a new job.<br>
-- 👨‍💻 All of my projects are available here [https://adilrasheed.tech]<br>
+- 👨‍💻 All of my projects are available here [https://saquibe.me]<br>
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
 ---
 ### Connect With Me:
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/er.marasheed)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adilrasheedknit) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/er.marasheed)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/er_marasheed)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.adilrasheed@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saquibe) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saquibera)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saquibera)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saquibe@gmail.com)
 
 ---
 
@@ -47,23 +46,23 @@
  </p>
  
 ## My GitHub Stats 📈
-[![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=eradilrasheed&theme=nightowl&show_icons=true)](https://github.com/eradilrasheed/github-readme-stats)
+[![Saquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=saquibe&theme=nightowl&show_icons=true)](https://github.com/saquibe/github-readme-stats)
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eradilrasheed&theme=nightowl" alt="adil" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saquibe&theme=nightowl" alt="saquib" />
 </p>
 
 ---
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eradilrasheed&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquibe&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
 
 ---
 
 ### Top Repositories
 
-<a href="https://github.com/ErAdilrasheed/Developer-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eradilrasheed&repo=developer-portfolio&theme=nightowl" />
+<a href="https://github.com/saquibe/Developer_Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saquibe&repo=developer_portfolio&theme=nightowl" />
 </a>
 <a href="https://github.com/ErAdilrasheed/FiverrIndia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eradilrasheed&repo=Express-Postgres-blog&theme=nightowl" />
